@@ -1,0 +1,119 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 18 mars 2022, 09:00:51
+    Author     : tpierron9
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+    background-color: black !important ; 
+}
+
+#carouselExemple {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+.carousel-item img {
+    width: 40 %;
+    height: 40 %;
+    max-height:900px;
+}
+
+h4{
+    
+}
+
+h4 span{
+    color:black;
+    background-color: white;
+}
+.centered{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+    text-align: center ;
+    color: white !important ;
+}
+img-fluid{
+    width: 100%;
+    height: auto;
+    
+}
+div{
+    color: white !important ;
+    text-align: center ;
+}
+
+
+h2{
+    
+    color : white !important ;
+    text-align: center ;
+}
+
+h3{
+    
+    color : white !important ;
+    text-align: center ;
+}
+
+.centered-list {
+  display: table;
+  margin: 0 auto;
+   color : white !important ;
+}
+
+article{
+    
+    text-align: center !important ;
+    
+   
+    
+}
+
+button{
+    
+    background-color:  #8D8C86 !important ;
+    
+}
+
+nav button {
+    background-color: transparent;
+    border :none;
+    box-shadow: none ; 
+    
+}
+
+nav .dropdown-1{
+    position: relative ;
+    
+}
+
+nav .dropdown-1 .content {
+    
+    display: none; 
+}
+
+nav .dropdown-1:hover .content {
+    display:block ;
+    display : flex ;
+    flex-direction:  column ;
+    position: absolute;
+    background-color: black ; 
+}
+
+#footer {
+  margin-bottom: 0px       
+}
